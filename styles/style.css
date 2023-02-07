@@ -1,1 +1,24 @@
+.bg-info {
+    background-color: #49475B !important;     /* some secondary colour */
+}
 
+.navbar-light .navbar-brand {
+    color: #14080E;                           /* contrast to secondary colour */
+}
+
+.btn-primary {
+    color: #14080E;                           /* contrast to secondary colour */
+    font-size: 150%;
+    background-color: #ACC196;                /* some secondary colour */
+    border-color: #E9EB9E;                    /* some accent colour */
+    border-width: thick
+}
+
+body {
+    background-color: #799496;                /* some primary colour */
+}
+
+.navbar-brand{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.25rem;
+}
